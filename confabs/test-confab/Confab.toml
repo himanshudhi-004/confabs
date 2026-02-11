@@ -1,0 +1,9 @@
+[confab]
+name = "test-confab"
+description = "Test confab for repository initialization"
+version = "1.0.0"
+created_at = "2026-02-11T12:05:56.748586"
+
+[metadata]
+author = "Let's Confab"
+license = "MIT"
